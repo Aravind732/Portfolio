@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a4055aae.css",
-    "main.js": "/portfolio/static/js/main.e397ac11.js",
-    "static/media/portfolio-4.png": "/portfolio/static/media/portfolio-4.b64f048bfb8f84f5d965.png",
-    "static/media/portfolio-1.png": "/portfolio/static/media/portfolio-1.f66985916dd81304347a.png",
-    "static/media/portfolio-5.png": "/portfolio/static/media/portfolio-5.91217bfe303fd58703a3.png",
-    "static/media/portfolio-6.png": "/portfolio/static/media/portfolio-6.67c2afd7d9ea18bb26e4.png",
-    "static/media/portfolio-3.png": "/portfolio/static/media/portfolio-3.08779c43f6363f7293d1.png",
-    "static/media/portfolio-2.png": "/portfolio/static/media/portfolio-2.542b62907d0ece217251.png",
-    "static/media/website-design.png": "/portfolio/static/media/website-design.ee107446dadff53a9271.png",
-    "static/media/image.png": "/portfolio/static/media/image.7b0358fe9ba8e43b0126.png",
-    "static/media/logo.png": "/portfolio/static/media/logo.6cf0e718d1f82a7190df.png",
-    "static/media/app-design.png": "/portfolio/static/media/app-design.9f3350e7bceac8568d44.png",
-    "static/media/Github.jpg": "/portfolio/static/media/Github.4151ac08233f1fa7130a.jpg",
-    "static/media/Leetcode.jpg": "/portfolio/static/media/Leetcode.fb442194c52620b16500.jpg",
-    "static/media/facebook.png": "/portfolio/static/media/facebook.81dd033a37c4860f7121.png",
-    "static/media/ui-design.png": "/portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
-    "static/media/instagram.png": "/portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
-    "index.html": "/portfolio/index.html",
-    "main.a4055aae.css.map": "/portfolio/static/css/main.a4055aae.css.map",
-    "main.e397ac11.js.map": "/portfolio/static/js/main.e397ac11.js.map"
+    "main.css": "/Portfolio/static/css/main.a4055aae.css",
+    "main.js": "/Portfolio/static/js/main.fdeee6e5.js",
+    "static/media/portfolio-4.png": "/Portfolio/static/media/portfolio-4.b64f048bfb8f84f5d965.png",
+    "static/media/portfolio-1.png": "/Portfolio/static/media/portfolio-1.f66985916dd81304347a.png",
+    "static/media/portfolio-5.png": "/Portfolio/static/media/portfolio-5.91217bfe303fd58703a3.png",
+    "static/media/portfolio-6.png": "/Portfolio/static/media/portfolio-6.67c2afd7d9ea18bb26e4.png",
+    "static/media/portfolio-3.png": "/Portfolio/static/media/portfolio-3.08779c43f6363f7293d1.png",
+    "static/media/portfolio-2.png": "/Portfolio/static/media/portfolio-2.542b62907d0ece217251.png",
+    "static/media/website-design.png": "/Portfolio/static/media/website-design.ee107446dadff53a9271.png",
+    "static/media/image.png": "/Portfolio/static/media/image.7b0358fe9ba8e43b0126.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.6cf0e718d1f82a7190df.png",
+    "static/media/app-design.png": "/Portfolio/static/media/app-design.9f3350e7bceac8568d44.png",
+    "static/media/Github.jpg": "/Portfolio/static/media/Github.4151ac08233f1fa7130a.jpg",
+    "static/media/Leetcode.jpg": "/Portfolio/static/media/Leetcode.fb442194c52620b16500.jpg",
+    "static/media/facebook.png": "/Portfolio/static/media/facebook.81dd033a37c4860f7121.png",
+    "static/media/ui-design.png": "/Portfolio/static/media/ui-design.c4acd455fc2040eddcc8.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.a4055aae.css.map": "/Portfolio/static/css/main.a4055aae.css.map",
+    "main.fdeee6e5.js.map": "/Portfolio/static/js/main.fdeee6e5.js.map"
   },
   "entrypoints": [
     "static/css/main.a4055aae.css",
-    "static/js/main.e397ac11.js"
+    "static/js/main.fdeee6e5.js"
   ]
 }
